@@ -3,6 +3,10 @@ main
 {
 printf("hello");
 printf("hi");
+
 printf("done");
+
+printf("hello");
+
 
 }
